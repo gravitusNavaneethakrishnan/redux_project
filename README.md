@@ -1,3 +1,5 @@
+# Getting Started with Create React App
+
 ### Create React App
 Install command = npx create-react-app redux_project
 
